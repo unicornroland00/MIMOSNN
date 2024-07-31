@@ -4,7 +4,7 @@
 %WSN        /0/   log tan tanh    ELU    ReLU     step    1   0     rand
 % WsnFlag=0;
 WsnFlag=Flag(3);
-L=Cara(1);%应该用N，后面转回L了
+L=Cara(1); 
 N_SN=Cara(11);
 WSN =zeros(1,L+1);
 
@@ -77,6 +77,6 @@ if WsnFlag==7
     W_sn =ones(N_SN,L+1) ;
 end
 
-%%
+%
 
 L=Cara(1);

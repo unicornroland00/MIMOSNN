@@ -1,5 +1,5 @@
 %%  weights initialization
-% if N_Input=2, Flag(1)=1. It's a test program;else Flag(1)>1
+% if N_Input=2 Flag(1)=1. it's a test program;else Flag(1)>1
 
 % L=Cara(1);N=Cara(2);Xu=Cara(3);M=Cara(4);
 % learn=Cara(5); alph=Cara(6);   Ntrai=Cara(7);   Mtrai=Cara(8);

@@ -3,7 +3,8 @@ function [ Sa ] = SaSFun(snx,L)
 
 Sa=zeros(1,L+1);
 F=floor(snx);
-if F==0,F=1;end
+if F<1,F=1;end
+if F>L,F=L;end
 C=abs(snx-F);
 SC=abs(sin(pi*C));% SC=abs(sin(pi*(sx-F)));
 SCdpi=SC/pi;
