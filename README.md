@@ -54,7 +54,11 @@ Any bug reports, code contributions, suggestions, feedback and insights are imme
    Link: https://github.com/unicornroland00/MIMOSNN
 
    This code was implemented based on the following paper, 
+   
  [1] G. Cai, L.Y. Wu, Sampling Neural Network: A Novel Neural Network Based on Sampling Theorem, 2021 6th International Symposium on Computer and Information Processing Technology (ISCIPT), (2021) 717-720. http://dx.doi.org/10.1109/ISCIPT53667.2021.00151.
+ 
  [2] Cai, G., Wu, L. Cycle sampling neural network algorithms and applications. J Supercomput 79, 9889–9914 (2023). https://doi.org/10.1007/s11227-022-05019-9
+ 
  [3] L. Wu, G. Cai, SNNTool: A software tool for sampling neural networks algorithms implementation, SoftwareX, 24 (2023).https://doi.org/10.1016/j.softx.2023.101574
+ 
    Please cite paper by those who have referenced the code. Thanks!
